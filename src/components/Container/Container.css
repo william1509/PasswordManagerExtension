@@ -1,0 +1,7 @@
+.MainContainer {
+    display: inline;
+}
+
+.ButtonContainer {
+    display: flex;
+}
